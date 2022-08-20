@@ -1,0 +1,52 @@
+[
+    {
+        "model": "shreddersapi.trick",
+        "pk": 1,
+        "fields": {
+            "trick_type": 1,
+            "name": "Melon",
+            "skater": 1,
+            "skill_level": 4
+        }
+    },
+    {
+        "model": "shreddersapi.trick",
+        "pk": 2,
+        "fields": {
+            "trick_type": 1,
+            "name": "Christ Air",
+            "skater": 1,
+            "skill_level": 5
+        }
+    },
+    {
+        "model": "shreddersapi.trick",
+        "pk": 3,
+        "fields": {
+            "trick_type": 2,
+            "name": "Heelflip",
+            "skater": 1,
+            "skill_level": 2
+        }
+    },
+    {
+        "model": "shreddersapi.trick",
+        "pk": 4,
+        "fields": {
+            "trick_type": 2,
+            "name": "360 Flip",
+            "skater": 1,
+            "skill_level": 2
+        }
+    },
+    {
+        "model": "shreddersapi.trick",
+        "pk": 5,
+        "fields": {
+            "trick_type": 3,
+            "name": "Casper",
+            "skater": 1,
+            "skill_level": 3
+        }
+    }
+]

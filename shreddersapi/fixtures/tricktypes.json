@@ -1,0 +1,23 @@
+[
+    {
+        "model": "shreddersapi.tricktype",
+        "pk": 1,
+        "fields": {
+            "label": "Vert Trick"
+        }
+    },
+    {
+        "model": "shreddersapi.tricktype",
+        "pk": 2,
+        "fields": {
+            "label": "Street Trick"
+        }
+    },
+    {
+        "model": "shreddersapi.tricktype",
+        "pk": 3,
+        "fields": {
+            "label": "Freestyle Trick"
+        }
+    }
+]
